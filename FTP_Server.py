@@ -1,7 +1,5 @@
-import os
 import socket
 from Command_Lib import *
-import hashlib
 
 '''
 pwd - показывает название рабочей директории
